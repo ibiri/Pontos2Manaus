@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import simplekml
 import zipfile
 from io import BytesIO
 
