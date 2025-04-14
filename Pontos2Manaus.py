@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import zipfile
 from io import BytesIO
+import simplekml
 
 # === CONFIG ===
 st.set_page_config(page_title="Sorteio de Pontos - Manaus", layout="centered")
